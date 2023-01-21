@@ -25,4 +25,5 @@ NB:
 * gezworene: iemand die onder toezicht van de burgemeester(s) een stad meebestuurt en er recht spreekt [Wiki](https://nl.wikipedia.org/wiki/Gezworene_(stadsbestuur))
 
 Bronnen:
+
 [Bergen op Zoomse Potbakkers families tussen 1600 en 1700](https://www.geschiedkundigekringboz.nl/site/wp-content/uploads/2020/06/Bergen-op-Zoomse-Potbakkers-families-tussen-1600-en-1700.pdf)
